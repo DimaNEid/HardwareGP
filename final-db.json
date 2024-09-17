@@ -1,0 +1,48 @@
+{
+  "bikeRentalSystem": {
+    "bikeID": "F6189BF7",
+    "phoneNumber": "970598184657",
+    "rented": true,
+    "studentID": "12029448",
+    "studentName": "Sema Hodali",
+    "timer": 0,
+    "timerCounter": "00:00"
+  },
+  "cardMappings": {
+    "21A90D1E": {
+      "name": "Dima Eid",
+      "phoneNumber": "970593053152",
+      "studentID": "12029305"
+    },
+    "F6189BF7": {
+      "name": "Sema Hodali",
+      "phoneNumber": "970598184657",
+      "studentID": "12029448"
+    }
+  },
+  "gps_tracking": {
+    "device1": {
+      "bikeID": "124578",
+      "latitude": 32.22746,
+      "location-range": "Within range",
+      "longitude": 35.26051
+    }
+  },
+  "phoneMappings": {
+    "970593053152": {
+      "name": "Dima Eid",
+      "studentID": "12029305"
+    },
+    "970598184657": {
+      "name": "Sema Hodali",
+      "studentID": "12029448"
+    }
+  },
+  "stations": {
+    "station1": {
+      "bikeID": "F6189BF7",
+      "stationAdminControl": "Deactivated",
+      "status": "Available"
+    }
+  }
+}
